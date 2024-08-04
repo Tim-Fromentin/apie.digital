@@ -1,5 +1,6 @@
-![project open source](https://img.shields.io/badge/project-open%20source-BrightGreen)
-![alttext](https://img.shields.io/badge/complet%20website-violet)
+![folder open source](https://img.shields.io/badge/folder-open%20source-BrightGreen)
+![complet website](https://img.shields.io/badge/complet%20website-violet)
+![responsive website](https://img.shields.io/badge/responsive-blue)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -7,4 +8,4 @@
 
 # Free full website for cybersecurity 
 
-[preview](./rd/preview.mp4)
+![Preview](./rd/preview.gif)
